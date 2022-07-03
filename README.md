@@ -1,5 +1,7 @@
 # GO Simple Tunnel
 
+Support returning remote server address in socks5 replies.
+
 ### GO语言实现的安全隧道
 
 [English README](README_en.md)
