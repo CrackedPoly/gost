@@ -96,3 +96,7 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/go-gost/gosocks5 v0.3.1-0.20211109033403-d894d75b7f09 => github.com/CrackedPoly/gosocks5 v0.3.1-0.20220703071631-c458e5748556
+
+replace github.com/go-gost/x v0.0.0-20220501125445-59db7898d8f9 => github.com/CrackedPoly/x v0.0.0-20220703023025-c372a8bba45e
